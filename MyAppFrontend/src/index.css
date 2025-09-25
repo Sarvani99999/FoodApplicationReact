@@ -1,0 +1,160 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 20px;
+}
+body {
+  margin: 0;
+  background-image: url('/bgimg.jpg'); /* 👈 served from public */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+
+
+
+
+/* Main App Card */
+.app-container {
+  background: #fff;
+  max-width: 900px;
+  width: 100%;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.tab {
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: none;
+  background: #eee;
+  cursor: pointer;
+}
+.tab.active {
+  background: #ff5722;
+  color: white;
+}
+
+/* Search Bar */
+.search {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.filter-btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: none;
+  background: #ddd;
+  cursor: pointer;
+}
+.filter-btn.active {
+  background: #4caf50;
+  color: white;
+}
+
+/* Dish Card */
+.card {
+  display: flex;
+  gap: 16px;
+  background: white;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  align-items: center;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+.card h3 {
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+.card p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 8px;
+}
+.card .actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+button.add-btn {
+  background: #ff9800;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button.add-btn:hover {
+  background: #e68900;
+}
+a.ingredients-link {
+  color: #2196f3;
+  text-decoration: underline;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Footer */
+.footer {
+  margin-top: auto;
+  background: #4caf50;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+.footer button {
+  background: white;
+  color: #4caf50;
+  font-weight: bold;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.footer button:hover {
+  background: #eee;
+}

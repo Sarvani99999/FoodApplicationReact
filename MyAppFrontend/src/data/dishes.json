@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "Palak Paneer",
+    "description": "Cottage cheese simmered in creamy spinach gravy.",
+    "mealType": "VEG",
+    "price": 200,
+    "image": "/palakpaneer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Veg Manchurian",
+    "description": "Crispy vegetable balls in tangy Manchurian sauce.",
+    "mealType": "VEG",
+    "price": 180,
+    "image": "/vegmanchurian.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dal Tadka",
+    "description": "Yellow dal tempered with garlic and spices.",
+    "mealType": "VEG",
+    "price": 150,
+    "image": "/daltadaka.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas served with fluffy fried bread.",
+    "mealType": "VEG",
+    "price": 170,
+    "image": "/chole.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Aloo Gobi",
+    "description": "Cauliflower and potatoes cooked with Indian spices.",
+    "mealType": "VEG",
+    "price": 160,
+    "image": "/aloogobi.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Mutton Rogan Josh",
+    "description": "Slow-cooked lamb curry in aromatic spices.",
+    "mealType": "NONVEG",
+    "price": 350,
+    "image": "/mutton.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Butter Chicken",
+    "description": "Tender chicken simmered in creamy tomato sauce.",
+    "mealType": "NONVEG",
+    "price": 300,
+    "image": "/butterchicken.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fish Curry",
+    "description": "Fresh fish cooked in spicy curry sauce.",
+    "mealType": "NONVEG",
+    "price": 280,
+    "image": "/fish.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Egg Curry",
+    "description": "Boiled eggs in rich onion-tomato gravy.",
+    "mealType": "NONVEG",
+    "price": 220,
+    "image": "/eggcurry.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Prawn Masala",
+    "description": "Juicy prawns cooked with traditional masala.",
+    "mealType": "NONVEG",
+    "price": 350,
+    "image": "/prawn.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Spring Rolls",
+    "description": "Crispy rolls stuffed with spiced vegetables.",
+    "mealType": "STARTERS",
+    "price": 120,
+    "image": "/springrols.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Paneer 65",
+    "description": "Spicy deep-fried paneer cubes.",
+    "mealType": "STARTERS",
+    "price": 150,
+    "image": "/panner65.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Lollipop",
+    "description": "Crispy fried chicken wings served with sauce.",
+    "mealType": "STARTERS",
+    "price": 180,
+    "image": "/chickenlolipop.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Hara Bhara Kabab",
+    "description": "Spinach and peas patties shallow fried.",
+    "mealType": "STARTERS",
+    "price": 140,
+    "image": "/harekababd.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Crispy Corn",
+    "description": "Fried corn kernels tossed with spices.",
+    "mealType": "STARTERS",
+    "price": 130,
+    "image": "/corn.jpg"
+  },
+
+  {
+    "id": 16,
+    "name": "Samosa",
+    "description": "Deep-fried pastry filled with spicy potatoes.",
+    "mealType": "SNACKS",
+    "price": 50,
+    "image": "/Samosa.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Pav Bhaji",
+    "description": "Mashed spicy vegetable curry with buttered pav.",
+    "mealType": "SNACKS",
+    "price": 120,
+    "image": "/pav-bhaji.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Momos (Veg/Chicken)",
+    "description": "Steamed dumplings served with spicy chutney.",
+    "mealType": "SNACKS",
+    "price": 100,
+    "image": "/momos.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Masala Dosa",
+    "description": "Crispy rice crepe filled with spiced potatoes.",
+    "mealType": "SNACKS",
+    "price": 130,
+    "image": "/masaladosa.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Cheese Sandwich",
+    "description": "Grilled sandwich with cheesy filling.",
+    "mealType": "SNACKS",
+    "price": 90,
+    "image": "/Cheese Sandwich.jpg"
+  },
+
+  {
+    "id": 21,
+    "name": "Vanilla Scoop",
+    "description": "Classic vanilla ice cream scoop.",
+    "mealType": "ICECREAMS",
+    "price": 60,
+    "image": "/Vanilla Scoop.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Butterscotch Ice Cream",
+    "description": "Creamy butterscotch flavored ice cream.",
+    "mealType": "ICECREAMS",
+    "price": 70,
+    "image": "/Butterscotch Ice Cream.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Mango Kulfi",
+    "description": "Traditional Indian mango-flavored kulfi.",
+    "mealType": "ICECREAMS",
+    "price": 80,
+    "image": "/Mango Kulfi.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Strawberry Sundae",
+    "description": "Strawberry ice cream sundae with toppings.",
+    "mealType": "ICECREAMS",
+    "price": 90,
+    "image": "/Strawberry Sundae.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Brownie with Ice Cream",
+    "description": "Warm brownie topped with vanilla ice cream.",
+    "mealType": "ICECREAMS",
+    "price": 120,
+    "image": "/Brownie with Ice Cream.jpg"
+  },
+
+  {
+    "id": 26,
+    "name": "Veg Fried Rice",
+    "description": "Stir-fried rice with vegetables and spices.",
+    "mealType": "MAINCOURSE",
+    "price": 160,
+    "image": "/Veg Fried Rice.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Chicken Fried Rice",
+    "description": "Fried rice tossed with chicken and spices.",
+    "mealType": "MAINCOURSE",
+    "price": 200,
+    "image": "/Chicken Fried Rice.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Paneer Butter Masala with Naan",
+    "description": "Creamy paneer butter masala served with naan.",
+    "mealType": "MAINCOURSE",
+    "price": 250,
+    "image": "/Paneer Butter Masala with Naan.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Hyderabadi Dum Biryani",
+    "description": "Aromatic biryani cooked on dum style.",
+    "mealType": "MAINCOURSE",
+    "price": 300,
+    "image": "/Hyderabadi Dum Biryani.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Veg Thali",
+    "description": "Traditional thali with assorted veg dishes.",
+    "mealType": "MAINCOURSE",
+    "price": 220,
+    "image": "/Veg Thali.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Non-Veg Thali",
+    "description": "Traditional thali with assorted non-veg dishes.",
+    "mealType": "MAINCOURSE",
+    "price": 300,
+    "image": "/Non-Veg Thali.jpg"
+  }
+]
